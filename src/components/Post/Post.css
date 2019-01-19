@@ -1,0 +1,33 @@
+.avatar {
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    width:38px;
+    vertical-align: middle;
+    height:38px;
+    border: 1px solid black;
+    padding: 1rem;
+}
+.username {
+    font-weight: bold;
+    font-size:18px;
+    display: flex;
+    width:100%;
+    overflow: hidden;
+}
+
+.userhandle {
+    text-align: left;
+    margin-left:5px;
+    color: #657786;
+    font-size: 14px;
+}
+
+.content {
+    text-align: left;
+    font-weight: 200;
+}
+
+.pl-10 {
+    padding-left:10px;
+}

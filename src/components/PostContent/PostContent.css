@@ -1,0 +1,38 @@
+.postcontent {
+    min-height: 35vh;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+    margin-top: 20px;
+    padding:10px;
+    margin-left: 80px;
+}
+
+.postcontent .avatar {
+    border-radius: 0%;
+    height:20px;
+    vertical-align: middle;
+    padding-top:9px;
+    width:34px;
+    font-size: 18px;
+    padding-left:6px;
+}
+
+.postcontent .title {
+    font-size:30px;
+    color: white;
+    font-weight: 500;
+    word-spacing: .5rem;
+    text-align: left;
+    padding-left:20px;
+    margin-top: 30px;
+}
+
+.postcontent .user-info {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top:40px;
+}
+
+.user-info .name {
+    padding-right:5px;
+}

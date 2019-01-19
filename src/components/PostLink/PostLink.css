@@ -1,0 +1,30 @@
+.postlink {
+    border:1px solid white;
+    min-height: 20vh;
+    margin-left: 80px;
+    border-radius: 5px;
+    background: white;
+}
+
+.postlink a {
+    text-decoration: none;
+    color: black;
+}
+.postlink .content {
+    padding:10px;
+    
+}
+.content .heading {
+    font-size:19px;
+}
+
+.content .description {
+    padding-top:5px;
+}
+
+.content .source {
+    padding-top:8px;
+    color:grey;
+    opacity: .5;
+
+}
